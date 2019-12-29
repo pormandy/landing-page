@@ -3,7 +3,7 @@
 ## Table of Contents
 
 * [submission](#submission)
-* [codeused](#Code used)
+* [codeused](#code-used)
 
 ## Submission
 
@@ -13,7 +13,7 @@ To view submitted code, open `js/app.js`.
 
 To test, download or clone this directory and open index.html locally.
 
-## Code used
+## Code-used
 
 1. HTML
 2. CSS
