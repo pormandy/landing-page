@@ -178,12 +178,10 @@ function setActive() {
 
   window.addEventListener('scroll', function () {
 
-    if (!ticking) {
-
       let section = getActiveElem();
       section.classList.add('your-active-class');
 
-      console.log(" retuened section :: "+section.id);
+      //console.log(" retuened section :: "+section.id);
 
       // clear all navbar
       for (let item of sections) {
@@ -203,12 +201,6 @@ function setActive() {
           item.classList.remove('active__link');
         }
       };
-
-    } else {
-      ticking = true;
-    }
-
-    console.log(ticking)
 
   });
 
