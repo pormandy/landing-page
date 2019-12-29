@@ -3,7 +3,7 @@
 ## Table of Contents
 
 * [submission](#submission)
-* [codeused](#code-used)
+* [code](#code)
 
 ## Submission
 
@@ -13,11 +13,12 @@ To view submitted code, open `js/app.js`.
 
 To test, download or clone this directory and open index.html locally.
 
-## Code-used
+## Code
 
 1. HTML
 2. CSS
 3. Javascript
 
 JS Version: ES2015/ES6
+
 JS Standard: ESlint
